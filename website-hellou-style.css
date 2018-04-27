@@ -6,11 +6,9 @@ font-size: 15px;
 
 }
 
-#slider {
+/* #slider { Aqui va el slider del principio
 
-
-
-}
+}*/
 
 #menu-top {
 
@@ -169,8 +167,7 @@ font-size: 15px;
   margin-left: 75px;
   position: relative;
   -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
+     -moz-appearance: none;          
   background: #f72359;
   border: none;
   color: white;
